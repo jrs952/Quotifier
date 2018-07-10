@@ -15,18 +15,15 @@ See the [change log](CHANGELOG.md) for changes and road map.
 
 ## Features
 
-- Feature 1
-- Feature 2
-  - Sub feature
+- Quotify
+- Commafy
+  
 
 ### Feature 1
-Describe feature 1. Add screenshots/code samples etc.
+Surrounds each line of the selected text with Quotes
 
 ### Feature 2
-Describe feature 2. Add screenshots/code samples etc.
-
-#### Sub feature
-Describe sub feature. Add screenshots/code samples etc.
+Ends each line of the selected text with a Comma
 
 ## Contribute
 Check out the [contribution guidelines](CONTRIBUTING.md)

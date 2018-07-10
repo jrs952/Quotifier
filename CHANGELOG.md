@@ -9,17 +9,12 @@ download in the
 
 # Change log
 
-These are the changes to each version that has been released
-on the official Visual Studio extension gallery.
-
-## 1.1
-
-- [x] Feature 3
-- [x] Feature 4
+These are the changes to each version
 
 ## 1.0
 
 - [x] Initial release
-- [x] Feature 1
-- [x] Feature 2
-  - [x] Sub feature
+- [x] Quotify - uses alt-Q as default shortcut
+- [x] Commafy - uses alt-C as default shortcut
+- [x] Quotify and Commafy - menu command only
+  
