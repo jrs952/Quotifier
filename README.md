@@ -9,7 +9,7 @@ or get the [CI build](http://vsixgallery.com/extension/Quotifier.f85a650d-8f79-4
 
 ---------------------------------------
 
-Surround each line of the selected text with quotes, or end each selected line with a comma, or both
+Surrounds each line of the selected text with quotes, or end each selected line with a comma, or both.. because sometimes you just have to do rediculously long where in clauses when your debugging something in sql...
 
 See the [change log](CHANGELOG.md) for changes and road map.
 
